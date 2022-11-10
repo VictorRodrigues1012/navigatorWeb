@@ -5,17 +5,17 @@ const aboutBtn = document.getElementById("about-el");
 homeBtn.addEventListener("click", (e) => {
     //e.preventDefault();
 
-    window.open('https://www.youtube.com/channel/UC0MOYKdx9AqiuLgeQjZZOYA', '_blank');
+    window.open('https://www.youtube.com/', '_blank');
 })
 
 contactBtn.addEventListener("click", (e) => {
     //e.preventDefault();
 
-    window.open('https://www.youtube.com/channel/UCPKELCXyIOso7cNUuf7iAvg', '_blank');
+    window.open('https://www.youtube.com/', '_blank');
 })
 
 aboutBtn.addEventListener("click", (e) => {
     //e.preventDefault();
 
-    window.open('https://www.youtube.com/channel/UCjNks6AywIFkBNgKm81qVDw', '_blank');
+    window.open('https://www.youtube.com/', '_blank');
 })
